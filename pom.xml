@@ -71,6 +71,13 @@
 		</dependency>
 
 		<dependency>
+		  <groupId>egovframework.rte</groupId>
+		
+		  <artifactId>spring-modules-validation</artifactId>
+		
+		  <version>0.9</version>
+		</dependency>
+		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>servlet-api</artifactId>
 			<scope>provided</scope>
